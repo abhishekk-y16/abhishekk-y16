@@ -83,3 +83,22 @@ const abhishek = {
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode&perline=4&theme=dark" />
 
 </div>
+## 🤝 Connect with Me
+
+<div align="center">
+
+<a href="https://www.instagram.com/abhishekk__007">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+**Made with ❤️ by Abhishek Kumar Yadav**
+
+</div>
