@@ -48,8 +48,7 @@
 
 <div align="center">
 
-<img src="[https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/snake-dark.svg
-)" alt="Snake animation" />
+![GitHub Snake](https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/snake-dark.svg)  alt="Snake animation" />
 
 </div>
 
