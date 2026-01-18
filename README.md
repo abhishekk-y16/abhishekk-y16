@@ -43,8 +43,8 @@
 
 🎯 About Me - The Interactive Edition
 typescriptclass Developer {
-    name: string = "Your Name";
-    location: string = "Jammu, India 🇮🇳";
+    name: string = "Abhishek Kumar Yadav";
+    location: string = "Bhiali, Chhattishgarh India";
     role: string = "Full-Stack Wizard";
     
     languages: string[] = ["JavaScript", "TypeScript", "Python", "Go", "Rust"];
