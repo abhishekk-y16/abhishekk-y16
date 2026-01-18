@@ -12,7 +12,7 @@
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/snake-dark.svg" alt="GitHub Snake" />
