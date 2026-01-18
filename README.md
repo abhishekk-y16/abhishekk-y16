@@ -5,9 +5,9 @@
 <br/>
 <br/>
 
-### ☁️ AWS Cloud Club Captain | 
+### ☁️ AWS Cloud Club Captain 
 
-### 📍 Bhilai, Chhattisgarh, India 🇮🇳
+### 📍 Bhilai, Chhattisgarh, India
 
 <br/>
 
