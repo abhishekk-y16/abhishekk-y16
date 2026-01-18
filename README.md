@@ -2,10 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Welcome%20to%20Abhishek's%20Code%20Space&fontSize=42&color=gradient&customColorList=6,11,20&fontAlignY=35&desc=Where%20Ideas%20Transform%20Into%20Code%20|%20CSE%20Student%20|%20Full%20Stack%20%26%20AI/ML%20Developer&descAlignY=55&descSize=16&animation=fadeIn" />
 <br/>
 <br/>
-
-### ☁️ AWS Cloud Club Captain 
-
-### 📍 Bhilai, Chhattisgarh, India
+🎓 B.Tech CSE @ Rungta College of Engineering (2024-2028)
+☁️ AWS Cloud Club Captain | 👥 Team Lead OnCampus AWS Cloud Club
+📍 Bhilai, Chhattisgarh, India 🇮🇳
 
 <br/>
 
