@@ -42,6 +42,23 @@
 
 <br/>
 
+## 🐍 Contribution Graph
+
+<br/>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
 ## 👨‍💻 About Me
 
 <br/>
@@ -123,35 +140,6 @@ const abhishek = {
 <br/>
 
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode&perline=4&theme=dark" />
-
-</div>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
-## 📊 GitHub Statistics
-
-<br/>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekk-y16&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="180em" src="https://streak-stats.demolab.com/?user=abhishekk-y16&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6e4a&currStreakLabel=00ff41&date_format=M%20j%5B%2C%20Y%5D" />
-
-<br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekk-y16&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
-
-<br/>
-<br/>
-
-![Snake animation](https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
