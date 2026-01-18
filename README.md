@@ -3,13 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Abhishek%20Kumar%20Yadav&fontSize=45&color=gradient&customColorList=6,11,20&fontAlignY=38&desc=CSE%20Student%20|%20Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" />
 
 <br/>
-
-<br/>
 <br/>
 
-### ☁️ AWS Cloud Club Captain | 
+### 💫 B.Tech CSE @ Rungta College of Engineering (2024-2028)
 
-### 📍 Bhilai, Chhattishgarh India 🇮🇳
+### ☁️ AWS Cloud Club Captain | 👥 Team Lead OnCampus AWS Cloud Club
+
+### 📍 Bhilai, Chhattisgarh, India 🇮🇳
 
 <br/>
 
@@ -50,10 +50,11 @@ const abhishek = {
     role: "CSE Student | Full Stack Developer | AI/ML Enthusiast",
     college: "Rungta College of Engineering",
     batch: "2024-2028",
+    location: "Bhilai, Chhattisgarh, India",
     
     leadership: {
         aws_cloud_captain: true,
-        class_monitor: true,
+        team_lead_oncampus: true,
         impact: "Mentoring 100+ students in cloud & development"
     },
     
@@ -130,37 +131,6 @@ const abhishek = {
 
 <br/>
 
-**Tech Stack:** MERN • AI/ML • Computer Vision
-
-</td>
-<td width="50%">
-
-### 🔜 Coming Soon
-
-More innovative projects on the way!
-
-<br/>
-
-**Focus Areas:**
-- Cloud-based applications
-- AI/ML solutions
-- Full-stack web apps
-
-<br/>
-
-**Stay tuned!** 🚀
-
-</td>
-</tr>
-</table>
-
-<br/>
-<br/>
-
----
-
-<br/>
-
 ## 📊 GitHub Statistics
 
 <br/>
@@ -169,7 +139,7 @@ More innovative projects on the way!
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekk-y16&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true&include_all_commits=true" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekk-y16&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6e4a&currStreakLabel=00ff41" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=abhishekk-y16&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6e4a&currStreakLabel=00ff41&date_format=M%20j%5B%2C%20Y%5D" />
 
 <br/>
 <br/>
@@ -179,10 +149,7 @@ More innovative projects on the way!
 <br/>
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/github-contribution-grid-snake-dark.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -230,14 +197,15 @@ More innovative projects on the way!
 </details>
 
 <details>
-<summary><b>👥T eam Lead onCampus AWS Cloud Club </b></summary>
+<summary><b>👥 Team Lead OnCampus AWS Cloud Club</b></summary>
 
 <br/>
 
-- 📋 Academic coordination & event management
-- 🤝 Building team collaboration & communication
-- 📊 Ensuring smooth class operations
-- 💪 Supporting peers in academic growth
+- 📋 Coordinating AWS community activities on campus
+- 🤝 Building team collaboration & technical community
+- 📊 Organizing technical workshops and cloud sessions
+- 💪 Supporting students in learning AWS & cloud technologies
+- 🎯 Managing OnCampus AWS initiatives and events
 
 <br/>
 
