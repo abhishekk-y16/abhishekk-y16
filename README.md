@@ -4,16 +4,14 @@
 
 <br/>
 
-<img src="https://i.postimg.cc/j2CnNfq2/profile.jpg" alt="Abhishek Kumar Yadav" width="180" style="border-radius: 50%; border: 4px solid #00ff41;"/>
+alt="Abhishek Kumar Yadav" width="180" style="border-radius: 50%; border: 4px solid #00ff41;"/>
 
 <br/>
 <br/>
 
-### 💫 B.Tech CSE @ Rungta College of Engineering (2024-2028)
+### ☁️ AWS Cloud Club Captain | 
 
-### ☁️ AWS Cloud Club Captain | 👥 Class Monitor
-
-### 📍 India 🇮🇳
+### 📍 Bhilai, Chhattishgarh India 🇮🇳
 
 <br/>
 
@@ -134,66 +132,6 @@ const abhishek = {
 
 <br/>
 
-## 🚀 Featured Projects
-
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔐 AI Identity Verification
-
-Advanced authentication using Computer Vision & Deep Learning
-
-<br/>
-
-**Features:**
-- ✅ Live face verification
-- ✅ One-photo authentication
-- 🔜 Fingerprint & voice recognition
-
-<br/>
-
-**Tech Stack:** Python • Flask • Computer Vision • Deep Learning
-
-</td>
-<td width="50%">
-
-### 📰 Fake News Detection
-
-Fighting misinformation with NLP & AI
-
-<br/>
-
-**Features:**
-- ✅ Real vs Fake classification
-- ✅ Confidence score analysis
-- ✅ BERT-based model
-
-<br/>
-
-**Tech Stack:** NLP • BERT • Transformers • scikit-learn
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🍲 Global Recipe Book
-
-Discover recipes with AI assistance
-
-<br/>
-
-**Features:**
-- ✅ Manual recipe search
-- ✅ Image-based dish detection
-- ✅ AI-powered chatbot
-
-<br/>
-
 **Tech Stack:** MERN • AI/ML • Computer Vision
 
 </td>
@@ -294,7 +232,7 @@ More innovative projects on the way!
 </details>
 
 <details>
-<summary><b>👥 Class Monitor & Team Leader</b></summary>
+<summary><b>👥T eam Lead OnCampus AWS Cloud Club </b></summary>
 
 <br/>
 
