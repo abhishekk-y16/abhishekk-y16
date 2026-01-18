@@ -48,7 +48,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/dist/snake-dark.svg" alt="GitHub Snake" />
+<img src="https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/refs/heads/output/snake.svg%20dist/snake-dark.svg" alt="GitHub Snake" />
 
 
 </div>
