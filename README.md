@@ -54,6 +54,7 @@ const abhishek = {
   goal: "Building innovative projects + Securing excellent placement",
   inspiration: ["Ratan Tata", "Sundar Pichai", "Satya Nadella"]
 };
+
 🔭 Currently Building: AI/ML & Full Stack projects
 
 🌱 Learning: DSA, MERN Stack, Natural Language Processing
@@ -74,52 +75,3 @@ const abhishek = {
 <img src="https://img.shields.io/badge/Natural_Language_Processing-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 ☁️ Tools & Cloud
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode&perline=4&theme=dark" /> </div>
-💼 Leadership & Community
-<details> <summary><b>☁️ AWS Cloud Club Captain</b></summary>
-🎓 Leading cloud learning sessions for 100+ students
-
-🎪 Organizing AWS workshops, hackathons & tech events
-
-🌟 Building strong tech community at college
-
-👨‍🏫 Mentoring students in cloud computing & development
-
-📚 Creating learning resources & study materials
-
-</details> <details> <summary><b>👥 Team Lead OnCampus AWS Cloud Club</b></summary>
-📋 Coordinating AWS community activities on campus
-
-🤝 Building team collaboration & technical community
-
-📊 Organizing technical workshops and cloud sessions
-
-💪 Supporting students in learning AWS & cloud technologies
-
-🎯 Managing OnCampus AWS initiatives and events
-
-</details> <details> <summary><b>🎯 My Developer Journey</b></summary>
-2024 - The Beginning
-Started B.Tech CSE journey • Learned programming basics • Built first projects
-
-2025 - Growth & Leadership
-Deep dive into Full Stack & AI/ML • Became AWS Cloud Club Captain • Building real-world projects
-
-2026-2028 - The Future
-Master DSA & System Design • Build 10+ production projects • Contribute to open source • Secure excellent placement 🎯
-
-</details>
-📫 Let's Connect!
-<div align="center">
-🤝 Open to collaborate on exciting projects!
-Interested in: Full Stack Development • AI/ML Solutions • Cloud Computing • Open Source
-
-<a href="mailto:abhy4647@gmail.com"> <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> &nbsp; <a href="https://www.linkedin.com/in/abhishek-kumar-yadav-064616328/"> <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> &nbsp; <a href="https://github.com/abhishekk-y16"> <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a>
-<br/><br/>
-
-💡 "The only way to do great work is to love what you do." - Steve Jobs
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" />
-⭐ If you find my projects interesting, don't forget to star them!
-
-
-
-</div> ```
