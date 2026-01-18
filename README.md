@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Welcome%20to%20Abhishek's%20Code%20Space&fontSize=42&color=gradient&customColorList=6,11,20&fontAlignY=35&desc=Where%20Ideas%20Transform%20Into%20Code%20&descAlignY=55&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Welcome%20to%20Abhishek's%20Code%20Space&fontSize=42&color=gradient&customColorList=6,11,20&fontAlignY=35&desc=Where%20Ideas%20Transform%20into%20Innovation&descSize=18&descAlignY=55" />
 
 ### 🎓 B.Tech Computer Science Engineering Student  
 ### ☁️ AWS Cloud Club Captain  
@@ -54,6 +54,7 @@ const abhishek = {
   goal: "Building innovative projects + Securing excellent placement",
   inspiration: ["Ratan Tata", "Sundar Pichai", "Satya Nadella"]
 };
+```
 
 🔭 Currently Building: AI/ML & Full Stack projects
 
@@ -65,13 +66,20 @@ const abhishek = {
 
 💬 Ask me about: Python, JavaScript, React, Node.js, AI/ML, Cloud
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 <div align="center">
-💻 Languages
+
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&perline=5&theme=dark" />
-🚀 Full Stack Development
+
+### 🚀 Full Stack Development
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,flask&perline=5&theme=dark" />
-🤖 AI/ML Technologies
+
+### 🤖 AI/ML Technologies
 <img src="https://img.shields.io/badge/Natural_Language_Processing-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-☁️ Tools & Cloud
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode&perline=4&theme=dark" /> </div>
+
+### ☁️ Tools & Cloud
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode&perline=4&theme=dark" />
+
+</div>
