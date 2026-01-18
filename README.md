@@ -26,7 +26,7 @@
 const abhishek = {
   name: "Abhishek Kumar Yadav",
   role: "CSE Student | Full Stack Developer | AI/ML Enthusiast",
-  college: "Rungta College of Engineering",
+  college: "Rungta College of Engineering and Technology",
   batch: "2024-2028",
   location: "Bhilai, Chhattisgarh, India",
 
