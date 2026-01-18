@@ -151,16 +151,6 @@ const abhishek = {
 
 <br/>
 
-## 🏆 Achievements
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekk-y16&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=6" />
-
-</div>
-
 <br/>
 <br/>
 
