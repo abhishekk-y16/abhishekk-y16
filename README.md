@@ -4,8 +4,6 @@
 
 <br/>
 
-alt="Abhishek Kumar Yadav" width="180" style="border-radius: 50%; border: 4px solid #00ff41;"/>
-
 <br/>
 <br/>
 
