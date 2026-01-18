@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
