@@ -83,9 +83,20 @@ const abhishek = {
 <img src="https://skillicons.dev/icons?i=aws,git,github,vscode&perline=4&theme=dark" />
 
 </div>
+
 ## 🤝 Connect with Me
 
 <div align="center">
+
+<a href="mailto:abhy4647@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/abhishek-kumar-yadav-064616328/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/abhishekk__007">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -97,8 +108,8 @@ const abhishek = {
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
 
-**Made with ❤️ by Abhishek Kumar Yadav**
+
+**Made with ❤️ by Abhishek** 
 
 </div>
