@@ -5,9 +5,9 @@
 <br/>
 <br/>
 
-### 🎓 B.Tech CSE @ Rungta College of Engineering (2024-2028)
+### 🎓 B.Tech Computer Science Engineering Student
 
-### ☁️ AWS Cloud Club Captain | 👥 Team Lead OnCampus AWS Cloud Club
+### ☁️ AWS Cloud Club Captain | 
 
 ### 📍 Bhilai, Chhattisgarh, India 🇮🇳
 
