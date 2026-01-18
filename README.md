@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Welcome%20to%20Abhishek's%20Code%20Space&fontSize=42&color=gradient&customColorList=6,11,20&fontAlignY=35&desc=Where%20Ideas%20Transform%20Into%20Code%20|%20CSE%20Student%20|%20Full%20Stack%20and%20AI/ML%20Developer&descAlignY=55&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Welcome%20to%20Abhishek's%20Code%20Space&fontSize=42&color=gradient&customColorList=6,11,20&fontAlignY=35&desc=Where%20Ideas[...] 
 
 <br/>
 <br/>
@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![GitHub Snake](https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/snake-dark.svg)  alt="Snake animation" />
+![GitHub Snake](https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/snake-dark.svg)
 
 </div>
 
@@ -241,7 +241,6 @@ Master DSA & System Design • Build 10+ production projects • Contribute to o
 **Interested in:** Full Stack Development • AI/ML Solutions • Cloud Computing • Open Source
 
 <br/>
-
 <a href="mailto:abhy4647@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
