@@ -1,101 +1,385 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Abhishek%20Kumar%20Yadav&fontSize=40&color=gradient&customColorList=12,24,14,18,22&fontColor=00FF41&animation=fadeIn" />
-<img src="https://i.postimg.cc/j2CnNfq2/profile.jpg" alt="Abhishek" width="150" style="border-radius: 50%;"/>
-CSE Student | Full Stack Developer | AI/ML Enthusiast
-bash$ whoami
-> Abhishek Kumar Yadav
-> B.Tech CSE @ Rungta College of Engineering (2024-2028)
-> AWS Cloud Club Captain ☁️ 
-> Location: India 🇮🇳
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Abhishek%20Kumar%20Yadav&fontSize=45&color=gradient&customColorList=6,11,20&fontAlignY=38&desc=CSE%20Student%20|%20Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" />
+
+<br/>
+
+<img src="https://i.postimg.cc/j2CnNfq2/profile.jpg" alt="Abhishek Kumar Yadav" width="180" style="border-radius: 50%; border: 4px solid #00ff41;"/>
+
+<br/>
+<br/>
+
+### 💫 B.Tech CSE @ Rungta College of Engineering (2024-2028)
+
+### ☁️ AWS Cloud Club Captain | 👥 Class Monitor
+
+### 📍 India 🇮🇳
+
+<br/>
+
 <p>
 <a href="mailto:abhy4647@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+  &nbsp;
 <a href="https://www.linkedin.com/in/abhishek-kumar-yadav-064616328/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+  &nbsp;
 <a href="https://github.com/abhishekk-y16">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </p>
-Show Image
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhishekk-y16&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
-👨‍💻 About Me
-javascriptconst abhishek = {
+<br/>
+<br/>
+
+---
+
+<br/>
+
+## 👨‍💻 About Me
+
+<br/>
+
+```javascript
+const abhishek = {
+    name: "Abhishek Kumar Yadav",
     role: "CSE Student | Full Stack Developer | AI/ML Enthusiast",
-    education: "Rungta College of Engineering (2024-2028)",
-    leadership: ["AWS Cloud Club Captain", "Class Monitor"],
-    focus: ["DSA", "MERN Stack", "AI/ML", "Cloud Computing"],
-    goal: "Building real-world projects + placement preparation",
+    college: "Rungta College of Engineering",
+    batch: "2024-2028",
+    
+    leadership: {
+        aws_cloud_captain: true,
+        class_monitor: true,
+        impact: "Mentoring 100+ students in cloud & development"
+    },
+    
+    currently_learning: ["DSA", "MERN Stack", "NLP", "AWS Cloud"],
+    goal: "Building innovative projects + Securing excellent placement",
     inspiration: ["Ratan Tata", "Sundar Pichai", "Satya Nadella"]
 };
+```
 
-🔭 Currently building AI/ML & Full Stack projects
-🌱 Learning DSA, MERN, NLP, AWS Cloud
-👨‍✈️ Leading AWS Cloud Club - organizing workshops & events
-🎯 Focused on placement-oriented learning
-💬 Ask me about Python, MERN, AI/ML, Cloud
+<br/>
 
+- 🔭 **Currently Building:** AI/ML & Full Stack projects
+- 🌱 **Learning:** Data Structures & Algorithms, MERN Stack, Natural Language Processing
+- 👨‍✈️ **Leading:** AWS Cloud Club - organizing workshops, hackathons & tech events
+- 🎯 **Focus:** Placement-oriented learning with hands-on project experience
+- 💬 **Ask me about:** Python, JavaScript, React, Node.js, AI/ML, Cloud Computing
 
-🛠️ Tech Stack
+<br/>
+<br/>
+
+---
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<br/>
+
 <div align="center">
-Languages
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&perline=5" />
-Full Stack
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,flask&perline=5" />
-AI/ML
-<img src="https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+### 💻 Languages
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&perline=5&theme=dark" />
+
+<br/>
+<br/>
+
+### 🚀 Full Stack Development
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,flask&perline=5&theme=dark" />
+
+<br/>
+<br/>
+
+### 🤖 AI/ML Technologies
+
+<br/>
+
+<img src="https://img.shields.io/badge/Natural_Language_Processing-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-Tools & Cloud
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode&perline=4" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+<br/>
+<br/>
+
+### ☁️ Tools & Cloud
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode&perline=4&theme=dark" />
+
 </div>
 
+<br/>
+<br/>
 
-📊 GitHub Stats
+---
+
+<br/>
+
+## 🚀 Featured Projects
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 AI Identity Verification
+
+Advanced authentication using Computer Vision & Deep Learning
+
+<br/>
+
+**Features:**
+- ✅ Live face verification
+- ✅ One-photo authentication
+- 🔜 Fingerprint & voice recognition
+
+<br/>
+
+**Tech Stack:** Python • Flask • Computer Vision • Deep Learning
+
+</td>
+<td width="50%">
+
+### 📰 Fake News Detection
+
+Fighting misinformation with NLP & AI
+
+<br/>
+
+**Features:**
+- ✅ Real vs Fake classification
+- ✅ Confidence score analysis
+- ✅ BERT-based model
+
+<br/>
+
+**Tech Stack:** NLP • BERT • Transformers • scikit-learn
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🍲 Global Recipe Book
+
+Discover recipes with AI assistance
+
+<br/>
+
+**Features:**
+- ✅ Manual recipe search
+- ✅ Image-based dish detection
+- ✅ AI-powered chatbot
+
+<br/>
+
+**Tech Stack:** MERN • AI/ML • Computer Vision
+
+</td>
+<td width="50%">
+
+### 🔜 Coming Soon
+
+More innovative projects on the way!
+
+<br/>
+
+**Focus Areas:**
+- Cloud-based applications
+- AI/ML solutions
+- Full-stack web apps
+
+<br/>
+
+**Stay tuned!** 🚀
+
+</td>
+</tr>
+</table>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<br/>
+
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=abhishekk-y16&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=1a1b27&title_color=00ff41&icon_color=00ff41&text_color=7fdbca&count_private=true" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekk-y16&theme=chartreuse-dark&hide_border=true&background=1a1b27&stroke=00ff41&ring=00ff41&fire=ffeb3b&currStreakLabel=00ff41" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekk-y16&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=1a1b27&title_color=00ff41&text_color=7fdbca" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhishekk-y16&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekk-y16&theme=radical&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6e4a&currStreakLabel=00ff41" />
+
+<br/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekk-y16&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/abhishekk-y16/abhishekk-y16/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
 </div>
 
-🏆 GitHub Trophies
+<br/>
+<br/>
+
+---
+
+<br/>
+
+## 🏆 Achievements
+
+<br/>
+
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhishekk-y16&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhishekk-y16&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=6" />
+
 </div>
 
-💡 Leadership & Community
+<br/>
+<br/>
+
+---
+
+<br/>
+
+## 💼 Leadership & Community
+
+<br/>
+
 <details>
 <summary><b>☁️ AWS Cloud Club Captain</b></summary>
 
-Leading cloud learning sessions for 100+ students
-Organizing AWS workshops & hackathons
-Building tech community at college
-Mentoring students in cloud & development
+<br/>
+
+- 🎓 Leading cloud learning sessions for 100+ students
+- 🎪 Organizing AWS workshops, hackathons & tech events  
+- 🌟 Building strong tech community at college
+- 👨‍🏫 Mentoring students in cloud computing & development
+- 📚 Creating learning resources & study materials
+
+<br/>
 
 </details>
+
+<details>
+<summary><b>👥 Class Monitor & Team Leader</b></summary>
+
+<br/>
+
+- 📋 Academic coordination & event management
+- 🤝 Building team collaboration & communication
+- 📊 Ensuring smooth class operations
+- 💪 Supporting peers in academic growth
+
+<br/>
+
+</details>
+
 <details>
 <summary><b>🎯 My Developer Journey</b></summary>
-2024: Started CSE journey, learned basics
-2025: Deep dive into Full Stack & AI/ML, became AWS Captain
-Goal: Master DSA + Build amazing projects + Secure great placement 🚀
+
+<br/>
+
+**2024 - The Beginning**  
+Started B.Tech CSE journey • Learned programming basics • Built first projects
+
+<br/>
+
+**2025 - Growth & Leadership**  
+Deep dive into Full Stack & AI/ML • Became AWS Cloud Club Captain • Building real-world projects
+
+<br/>
+
+**2026-2028 - The Future**  
+Master DSA & System Design • Build 10+ production projects • Contribute to open source • Secure excellent placement 🎯
+
+<br/>
+
 </details>
 
-📫 Let's Connect!
+<br/>
+<br/>
+
+---
+
+<br/>
+
+## 📫 Let's Connect!
+
+<br/>
+
 <div align="center">
-Open to collaborate on Full Stack, AI/ML & Cloud projects!
+
+### 🤝 Open to collaborate on exciting projects!
+
+**Interested in:** Full Stack Development • AI/ML Solutions • Cloud Computing • Open Source
+
+<br/>
+
 <a href="mailto:abhy4647@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/abhishek-kumar-yadav-064616328/">
-  <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,24,14,18,22&section=footer" />
-⭐ Star my repos if you find them interesting!
+&nbsp;&nbsp;
+<a href="https://github.com/abhishekk-y16">
+  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+### 💡 "The only way to do great work is to love what you do." - Steve Jobs
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" />
+
+<br/>
+
+**⭐ If you find my projects interesting, don't forget to star them!**
+
+<br/>
+
+![Made with ❤️](https://img.shields.io/badge/Made_with-❤️-red?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last_Updated-January_2025-brightgreen?style=flat-square)
+
 </div>
