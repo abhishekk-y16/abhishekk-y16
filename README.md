@@ -230,7 +230,7 @@ More innovative projects on the way!
 </details>
 
 <details>
-<summary><b>👥T eam Lead OnCampus AWS Cloud Club </b></summary>
+<summary><b>👥T eam Lead onCampus AWS Cloud Club </b></summary>
 
 <br/>
 
