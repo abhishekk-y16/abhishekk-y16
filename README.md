@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Abhishek%20Kumar%20Yadav&fontSize=45&color=gradient&customColorList=6,11,20&fontAlignY=38&desc=CSE%20Student%20|%20Full%20Stack%20Developer%20|%20AI/ML%20Enthusiast&descAlignY=55&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Welcome%20to%20Abhishek's%20Code%20Space&fontSize=42&color=gradient&customColorList=6,11,20&fontAlignY=35&desc=Where%20Ideas%20Transform%20Into%20Code%20|%20CSE%20Student%20|%20Full%20Stack%20%26%20AI/ML%20Developer&descAlignY=55&descSize=16&animation=fadeIn" />
 
 <br/>
 <br/>
