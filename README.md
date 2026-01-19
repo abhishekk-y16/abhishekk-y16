@@ -96,6 +96,6 @@ const abhishek = {
 
 
 
-**Made with ❤️ by Abhishek** 
+
 
 </div>
