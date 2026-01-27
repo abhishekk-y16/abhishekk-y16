@@ -50,7 +50,7 @@ const abhishek = {
 
 💬 Ask me about: Python, JavaScript, React, Node.js, AI/ML, Cloud
 
-## 🛠️ Tech Stack
+## 🛠️ What I Use
 
 <div align="center">
 
