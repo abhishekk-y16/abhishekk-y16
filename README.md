@@ -6,8 +6,6 @@
 ### ☁️ AWS Cloud Club Captain  
 ### 📍 Bhilai, Chhattisgarh, India  
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhishekk-y16&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
 ---
