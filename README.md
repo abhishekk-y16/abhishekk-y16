@@ -1,8 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=Welcome%20to%20Abhishek's%20Code%20Space&fontSize=42&color=gradient&customColorList=6,11,20&fontAlignY=35&desc=Where%20Ideas%20Transform%20into%20Innovation&descSize=18&descAlignY=55" />
-
- ### ☁️ AWS Cloud Club Captain  
   
 </div>
 
