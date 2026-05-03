@@ -39,7 +39,7 @@ const abhishek = {
 
 💬 Ask me about: Python, JavaScript, React, Node.js, AI/ML, Cloud
 
-## 🛠️ What I Use
+## 🛠️ What I Use for Building
 
 <div align="center">
 
