@@ -37,7 +37,7 @@ const abhishek = {
 
 🎯 Focus: Placement-oriented learning with hands-on project experience
 
-💬 Ask me about: Python, JavaScript, React, Node.js, AI/ML, Cloud
+💬 Ask me about: Python, JavaScript, React, Node.js, AI/ML, Cloud.
 
 ## 🛠️ What I Use for Building
 
