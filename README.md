@@ -29,7 +29,7 @@ const abhishek = {
 };
 ```
 
-🔭 Currently Building: AI/ML & Full Stack projects
+🔭 Currently Building: AI/ML & Full Stack projects.
 
 🌱 Learning: DSA, MERN Stack, Natural Language Processing
 
