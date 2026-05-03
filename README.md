@@ -20,7 +20,7 @@ const abhishek = {
   leadership: {
     aws_cloud_captain: true,
     team_lead_oncampus: true,
-    impact: "Mentoring 100+ students in cloud & development"
+    impact: "Mentored 100+ students in cloud & development"
   },
 
   currently_learning: ["DSA", "MERN Stack", "NLP", "AWS Cloud"],
