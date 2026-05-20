@@ -18,7 +18,7 @@ const abhishek = {
   location: "Bhilai, Chhattisgarh, India",
 
   leadership: {
-    aws_cloud_captain: true,
+    aws_student_builder_group_leader: true,
     team_lead_oncampus: true,
     impact: "Mentored 100+ students in cloud & development"
   },
