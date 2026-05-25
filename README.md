@@ -25,7 +25,7 @@ const abhishek = {
 
   currently_learning: ["DSA", "MERN Stack", "NLP", "AWS Cloud"],
   goal: "Building innovative projects + Securing excellent placement",
-  inspiration: ["Ratan Tata", "Sundar Pichai", "Satya Nadella"]
+  inspiration: ["Ratan Tata", "Sundar Pichai", "Satya Nadella"] 
 };
 ```
 
