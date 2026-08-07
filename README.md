@@ -12,7 +12,7 @@
 ```javascript
 const abhishek = {
   name: "Abhishek Kumar Yadav",
-  role: "CSE Student | Full Stack Developer | AI/ML Enthusiast",
+  role: "CSE Student | Cloud Native Developer | AI/ML Enthusiast | Devops Engineer",
   college: "Rungta College of Engineering and Technology",
   batch: "2024-2028",
   location: "Bhilai, Chhattisgarh, India",
@@ -33,7 +33,7 @@ const abhishek = {
 
 🌱 Learning: DSA, MERN Stack, Natural Language Processing
 
-👨‍✈️ Leading: AWS Cloud Club workshops, hackathons & tech events
+👨‍✈️ Leading: AWS Student Builder Group workshops, hackathons & tech events
 
 🎯 Focus: Placement-oriented learning with hands-on project experience
 
